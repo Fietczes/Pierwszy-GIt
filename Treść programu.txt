@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+
+int main()
+{
+cout<< "pierwszy plik"<<endl;
+cout<< "odliczamy"<<endl;
+
+for(i=o;i<z;i++)
+{
+static int zmienna=z;
+zmienna=--zmienna;
+cout<<zmienna;
+}
+
+
+system(pause)
+
+}
