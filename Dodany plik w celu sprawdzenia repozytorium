@@ -1,0 +1,7 @@
+#include <costam.tamcos>
+
+int main()
+{cout<<"nie ma to jak klepac kod";
+system(pause);
+return 0;
+}
